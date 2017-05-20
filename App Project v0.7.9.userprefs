@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BGLoopScript.cs">
+    <Files>
+      <File FileName="Assets\GameManager.cs" Line="70" Column="22" />
+      <File FileName="Assets\Scripts\PlayerDeathScript.cs" Line="14" Column="24" />
+      <File FileName="Assets\SpawnRockScript.cs" Line="11" Column="2" />
+      <File FileName="Assets\DestroyRockScript.cs" Line="14" Column="1" />
+      <File FileName="Assets\PlayerMovementScript.cs" Line="29" Column="1" />
+      <File FileName="Assets\Scripts\BGLoopScript.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
